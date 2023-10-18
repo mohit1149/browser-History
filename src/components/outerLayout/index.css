@@ -1,0 +1,32 @@
+.card-container {
+  display: flex;
+  justify-content: space-between;
+}
+.left-container {
+  display: flex;
+  align-items: center;
+}
+.times-accessed {
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.logo-url {
+  height: 30px;
+  width: 30px;
+  margin-left: 60px;
+}
+.title {
+  font-family: 'Roboto';
+  font-weight: bold;
+  margin-left: 20px;
+}
+.domain-url {
+  font-family: 'Roboto';
+  font-weight: 500;
+  margin-left: 20px;
+}
+.button {
+  background-color: transparent;
+  border-width: 0px;
+  margin-right: 60px;
+}
